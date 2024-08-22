@@ -1,0 +1,24 @@
+
+div#informacao_pessoal, 
+div#informacao_pessoal_secundaria,
+div#informacao_de_endereco{
+    background-color:black;
+    padding: 5px;
+    width: 50%;
+
+}
+.bloco_interno{
+padding: 5px;
+background-color: rgb(236, 209, 209);
+
+}
+
+div#informacao_pessoal_secundaria{
+    margin-top: 5px;
+
+}
+div#informacao_de_endereco {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
